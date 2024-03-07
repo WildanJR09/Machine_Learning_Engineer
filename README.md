@@ -2,7 +2,7 @@
 
 <h3 align="center">
   
-  ![header](https://cdn.qwiklabs.com/wz81lWqgTezdpanP7jY1bKrpvRVKFUiwPMztbjGgtU0%3D)
+  ![header](https://arki1.com/wp-content/uploads/2021/03/google-cloud-professional-cloud-machine-learning-engineer-certification-learning-path.png)
 
 ---
 
